@@ -1,1 +1,1 @@
-readme 파일 수정
+이 Repository는 html 파일의 예제입니다.
